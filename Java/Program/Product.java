@@ -7,13 +7,6 @@ class Product{
         this.brand = "";
         this.price = "";
     }
-    //Konstruktor parameter untuk product
-    public Product(String idProduct, String name, String brand, String price ){
-        this.idProduct = idProduct;
-        this.name = name;
-        this.brand = brand;
-        this.price = price;
-    }
     //Method untuk set idProduct
     public void setIdProduct(String idProduct) {
         this.idProduct = idProduct;
