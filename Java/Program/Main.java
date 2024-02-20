@@ -33,7 +33,8 @@ class Main {
             System.out.print("Masukkan Sleele Type: ");
             String sleeve_type = scanner.next();
 
-            Shirt Tshirt = new Shirt();
+            Shirt Tshirt = new Shirt(); //Instansiasi cucu shirt
+            //melakukan beberapa set
             Tshirt.setIdProduct(idProduct);
             Tshirt.setName(name);
             Tshirt.setBrand(brand);
@@ -105,4 +106,3 @@ class Main {
         System.out.println("               +-------------+----------------+");
     }
 }
-
