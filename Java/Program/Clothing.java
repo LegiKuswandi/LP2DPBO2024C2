@@ -10,13 +10,6 @@ class Clothing extends Product {
         this.gender = "";
     }
 
-    //Konstruktor parameter untuk class clothing
-    public Clothing(String size, String material, String gender){
-        this.size = size;
-        this.material = material;
-        this.gender = gender;
-    }
-
     //Method untuk set size
     public void setSize(String size) {
         this.size = size;
