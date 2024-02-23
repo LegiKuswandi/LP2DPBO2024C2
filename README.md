@@ -19,3 +19,5 @@
 ### Program dengan PHP hanya akan menampilkan data tersebut dalam bentuk tabel, user tidak dapat memasukan data.
 
 ## Demonstrasi Program dengan Java 
+https://github.com/LegiKuswandi/LP2DPBO2024C2/assets/147142081/5af100f8-1d49-4e87-a328-24d0b399b63d
+
