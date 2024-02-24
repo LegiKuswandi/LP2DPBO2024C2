@@ -6,6 +6,9 @@
 
 ### Ini adalah program sederhana yang digunakan untuk mencatat data pakaian menggunakan Python, Java, CPP dan PHP. Program ini dikembangkan sebagai bagian dari latihan praktikum DPBO (Desain dan Pemrograman Berorientasi Objek).
 
+## Diagram
+![LP2DPBO2024](https://github.com/LegiKuswandi/LP2DPBO2024C2/assets/147142081/f69a892e-a56a-4e41-9940-c86d427f5498)
+
 ### Program ini menggunakan konsep pemrograman berorientasi objek (OOP) untuk membuat tiga kelas: Product, Clothing, dan Shirt. Setiap kelas memiliki atribut dan metode yang berbeda untuk merepresentasikan informasi tentang produk, pakaian, dan baju. Berikut adalah ringkasan singkat dari setiap kelas:
 
 ### Product: Kelas dasar yang merepresentasikan produk umum. Memiliki atribut seperti ID produk, Name, Brand, dan Price.
